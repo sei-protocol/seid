@@ -1,9 +1,9 @@
-go 1.22
+go 1.24.5
 
 use (
-  ./sei-chain
-  ./sei-tendermint
-  ./sei-cosmos
-  ./sei-wasmd
-  ./sei-wasmvm
+	./sei-chain
+	./sei-cosmos
+	./sei-tendermint
+	./sei-wasmd
+	./sei-wasmvm
 )
