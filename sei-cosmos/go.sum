@@ -883,7 +883,6 @@ github.com/sei-protocol/go-ethereum v1.15.7-sei-5 h1:97N2txLaaOlzMiWc5FAhW+sinOc
 github.com/sei-protocol/sei-db v0.0.51 h1:jK6Ps+jDbGdWIPZttaWk7VIsq8aLWWlkTp9axIraL/U=
 github.com/sei-protocol/sei-db v0.0.51/go.mod h1:m5g7p0QeAS3dNJHIl28zQpzOgxQmvYqPb7t4hwgIOCA=
 github.com/sei-protocol/sei-iavl v0.2.0 h1:OisPjXiDT+oe+aeckzDEFgkZCYuUjHgs/PP8DPicN+I=
-github.com/sei-protocol/sei-tendermint v0.6.4 h1:lMgzloTLo3ixNBHV+ETkUeh13fwOPqqdXZW3pZxQ8Bs=
 github.com/sei-protocol/sei-tm-db v0.0.5 h1:3WONKdSXEqdZZeLuWYfK5hP37TJpfaUa13vAyAlvaQY=
 github.com/sei-protocol/sei-tm-db v0.0.5/go.mod h1:Cpa6rGyczgthq7/0pI31jys2Fw0Nfrc+/jKdP1prVqY=
 github.com/shirou/gopsutil v3.21.4-0.20210419000835-c7a38de76ee5+incompatible h1:Bn1aCHHRnjv4Bl16T8rcaFjYSrGrIZvpiGO6P3Q4GpU=
